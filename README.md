@@ -1,6 +1,6 @@
 # 🎯 Quiz App
 
-A simple and responsive quiz application built using HTML, CSS, and JavaScript. The app displays a set of multiple-choice questions, tracks the user's answers, and displays the score at the end.
+A simple and responsive quiz application built using HTML, CSS, and JavaScript. The app displays a set of multiple-choice questions, tracks the user's answers with an time tracker, and displays the score at the end.
 
 ## 🚀 Features
 
