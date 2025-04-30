@@ -16,7 +16,7 @@ A simple and responsive quiz application built using HTML, CSS, and JavaScript. 
 
 ## 📸 Screenshots
 
-### 🏠 Tnstruction Screen
+### 🏠 Instruction Screen
 Shows the quiz title , instructions and start button.  
 ![Home Screen](output/instruction.png)
 
